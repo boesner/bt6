@@ -1,0 +1,213 @@
+/*#page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+#content-wrap {
+  padding-bottom: 2.5rem;*/
+  /* Footer height */
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  font-size: 100px;
+  margin: 500px 0px 50px;
+}
+
+.fadeOnLoad {
+  display: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+}
+
+/*Navigation bar*/
+.nav-link {
+  font-size: 2rem;
+}
+
+.fa-home {
+  font-size:2.5rem;
+}
+
+/*Classes for social icons*/
+#socialIcons {
+  text-align: center;
+  padding: 3% 15%;
+}
+
+.far {
+  padding: 0% 4.5% 1.2%;
+  font-size: 3rem;
+}
+
+.fab {
+  padding: 0% 4.5% 1.2%;
+  font-size: 3rem;
+}
+
+.fab:hover {
+  color: grey;
+}
+
+.social-icons {
+  color: black;
+}
+
+/*table for concerts and band*/
+.table {
+  width: 60%;
+  margin: auto ;
+  font-size: 2rem;
+}
+
+#band {
+  text-align: center;
+}
+
+.bigtennisare {
+  font-size: 2rem;
+  margin-bottom: 60px;
+}
+
+/*props to https: //welearncode.com/rainbow-text/ - coloring of h1*/
+.rainbow-letters {
+  font-family: sans-serif;
+  text-transform: uppercase;
+}
+
+.rainbow-letters span:nth-child(10n + 1) {
+  color: #ef5350;
+}
+
+.rainbow-letters span:nth-child(10n + 2) {
+  color: #ab47bc;
+}
+
+.rainbow-letters span:nth-child(10n + 3) {
+  color: #651fff;
+}
+
+.rainbow-letters span:nth-child(10n + 5) {
+  color: #3949ab;
+}
+
+.rainbow-letters span:nth-child(10n + 4) {
+  color: #2196f3;
+}
+
+.rainbow-letters span:nth-child(10n + 6) {
+  color: #00bcd4;
+}
+
+.rainbow-letters span:nth-child(10n + 7) {
+  color: #4caf50;
+}
+
+.rainbow-letters span:nth-child(10n + 8) {
+  color: #ffc107;
+}
+
+.rainbow-letters span:nth-child(10n + 9) {
+  color: #f9a825;
+}
+
+.rainbow-letters span:nth-child(10n + 10) {
+  color: #ff5722;
+}
+
+/*Live-Section*/
+#Live {
+  margin-bottom: 40px;
+}
+
+#News {
+  width: 60%;
+  font-size:2rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 40px;
+
+}
+
+/*footer*/
+.footer {
+  /*position: absolute;
+  bottom: 0;*/
+  text-align: center;
+  width: 100%;
+  font-size: 2rem;
+}
+
+.footer2 {
+/*  bottom: 0px;*/
+  text-align: center;
+  width: 100%;
+  font-size: 2rem;
+}*/
+
+.container {
+  text-align: center;
+}
+
+#carouselExampleIndicators {
+  width: 25%;
+  margin: 80px auto 20px;
+}
+
+.disclaimer .disclaimer:hover {
+  background-color: :red;
+}
+
+#Disclaimer {
+  margin-top: 100px;
+  margin:  auto ;
+  width: 80%;
+}
+
+.disclaimerLead{
+  font-size: 2rem;
+}
+
+.imprint {
+  margin-top: 20%;
+  margin-left: -10px;
+}
+
+.carousel-control-prev-icon {
+  margin-right: 0px;
+}
+
+.accordion-button {
+  font-size: 2rem;
+}
+
+.message {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+
+  font-style: oblique;
+  color: grey;
+  font-size: 2.5rem;
+  padding-top: auto;
+  padding-bottom: auto;
+}
+
+.btn-outline-info {
+  margin-top: 5px;
+  align: right;
+  font-size:1.8rem;
+}
