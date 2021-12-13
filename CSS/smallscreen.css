@@ -16,7 +16,7 @@ body {
 h1 {
   text-align: center;
   font-size: 100px;
-  margin: 800px 0px 50px;
+  margin: 650px 0px 50px;
 }
 
 .fadeOnLoad {
@@ -140,6 +140,7 @@ a:hover {
 /*Live-Section*/
 #Live {
   margin-bottom: 40px;
+  font-size: 2.5rem;
 }
 
 /*News-Section*/
@@ -152,6 +153,11 @@ a:hover {
   margin-top: 20px;
   margin-bottom: 40px;
 }
+
+.news-date {
+  color: #AFAFAF;
+}
+
 
 .accordion-button {
   font-size: 2.5rem;
@@ -225,8 +231,18 @@ a:hover {
   padding-bottom: auto;
 }
 
+.form-control {
+  font-size: 2.5rem;
+}
+
 .btn-outline-info {
   margin-top: 5px;
   align: right;
   font-size:1.8rem;
+}
+
+.ThankYou {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 4rem;
 }

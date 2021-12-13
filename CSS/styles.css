@@ -163,6 +163,10 @@ margin-top: 20px;
   margin: auto;
 }
 
+.news-date {
+  color: #AFAFAF;
+}
+
 .accordion-button:not(.collapsed) {
   background-color: #e9ecef;
 }
