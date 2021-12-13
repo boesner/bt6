@@ -6,7 +6,7 @@
 #content-wrap {
   padding-bottom: 2.5rem;*/
   /* Footer height */
-}
+/*}*/
 
 body {
   margin: 0;
@@ -16,7 +16,7 @@ body {
 h1 {
   text-align: center;
   font-size: 100px;
-  margin: 500px 0px 50px;
+  margin: 650px 0px 50px;
 }
 
 .fadeOnLoad {
@@ -36,8 +36,18 @@ a:hover {
   font-size: 2rem;
 }
 
+.navbar-toggler {
+  font-size:3rem;
+}
+
 .fa-home {
-  font-size:2.5rem;
+  font-size:3rem;
+}
+
+.nav-link {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 2.5rem;
 }
 
 /*Classes for social icons*/
@@ -46,13 +56,14 @@ a:hover {
   padding: 3% 15%;
 }
 
-.far {
+/*.far {
   padding: 0% 4.5% 1.2%;
   font-size: 3rem;
-}
+}*/
 
 .fab {
-  padding: 0% 4.5% 1.2%;
+  margin-left: 45px;
+  margin-right: 45px;
   font-size: 3rem;
 }
 
@@ -76,7 +87,7 @@ a:hover {
 }
 
 .bigtennisare {
-  font-size: 2rem;
+  font-size: 2.5rem;
   margin-bottom: 60px;
 }
 
@@ -131,14 +142,19 @@ a:hover {
   margin-bottom: 40px;
 }
 
+/*News-Section*/
+
 #News {
-  width: 60%;
-  font-size:2rem;
+  width: 70%;
+  font-size:2.5rem;
   margin-left: auto;
   margin-right: auto;
   margin-top: 20px;
   margin-bottom: 40px;
+}
 
+.accordion-button {
+  font-size: 2.5rem;
 }
 
 /*footer*/
@@ -147,7 +163,7 @@ a:hover {
   bottom: 0;*/
   text-align: center;
   width: 100%;
-  font-size: 2rem;
+  font-size: 2.2rem;
 }
 
 .footer2 {
@@ -171,13 +187,18 @@ a:hover {
 }
 
 #Disclaimer {
-  margin-top: 100px;
+  margin-top: 200px;
   margin:  auto ;
   width: 80%;
+  font-size:2rem;
 }
 
 .disclaimerLead{
   font-size: 2rem;
+}
+
+.disclaimer-site {
+  margin-top: 100px;
 }
 
 .imprint {
@@ -189,9 +210,7 @@ a:hover {
   margin-right: 0px;
 }
 
-.accordion-button {
-  font-size: 2rem;
-}
+
 
 .message {
   width: 80%;
