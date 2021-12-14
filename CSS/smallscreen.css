@@ -244,5 +244,9 @@ a:hover {
 .ThankYou {
   text-align: center;
   margin-top: 50px;
-  font-size: 4rem;
+
+}
+
+.thanks {
+  font-size: 3rem;
 }
